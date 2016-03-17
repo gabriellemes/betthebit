@@ -1,0 +1,2 @@
+# betthebit
+A Bitcoin Company
